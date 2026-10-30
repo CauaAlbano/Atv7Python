@@ -7,7 +7,7 @@ import matplotlib.dates as mdates
 from scipy import stats
 
 st.set_page_config(
-    page_title="Dashboard — Atividade 06",
+    page_title="Dashboard — Atividade 07",
     layout="wide"
 )
 
